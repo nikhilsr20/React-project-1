@@ -1,0 +1,42 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is my first file of react",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilsr20/React-project-1.git"
+  },
+  "keywords": [
+    "react",
+    "project"
+  ],
+  "author": "Nikhil Singh Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilsr20/React-project-1/issues"
+  },
+  "homepage": "https://github.com/nikhilsr20/React-project-1#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": {
+  "production": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "development": [
+    "last 2 versions",
+    "not dead"
+  ]
+}
+}
